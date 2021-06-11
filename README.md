@@ -1,10 +1,15 @@
-# Hello World!
+### About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmorim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I am currently studying *Electrotechnical Engineering* at *Instituto Superior de Engenharia do Porto*. In that course I learned the basics of programming in C/C++ and fell in love with it. Ever since, I have been, on my free time, self-learning about all kinds of programming languages and technologies.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmorim&show_icons=true&count_private=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Statistics
 
-## Languages and Tools:
+<a href="https://github.com/pmorim">
+  <img style="display:inline-block;" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pmorim&show_icons=true&count_private=true&hide=stars,prs&theme=dark" />
+  <img style="display:inline-block;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmorim&layout=compact&theme=dark" />
+</a>
+
+### Languages and Tools
 
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
@@ -15,7 +20,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="React" width="26px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" />
 <img align="left" alt="Node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-<img align="left" alt="SQL" width="26px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://symbols.getvecta.com/stencil_261/25_mongodb.f1296c0db6.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
