@@ -5,8 +5,8 @@ I am currently studying *Electrotechnical Engineering* at *Instituto Superior de
 ### GitHub Statistics
 
 <a href="https://github.com/pmorim">
-  <img style="display:inline-block;" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pmorim&show_icons=true&count_private=true&hide=stars,prs&theme=dark" />
-  <img style="display:inline-block;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmorim&layout=compact&theme=dark" />
+  <img style="display:inline-block;" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pmorim&show_icons=true&count_private=true&hide=stars,prs" />
+  <img style="display:inline-block;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmorim&layout=compact" />
 </a>
 
 ### Languages and Tools
