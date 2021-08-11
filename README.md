@@ -21,7 +21,6 @@ I learned the basics of programming in C/C++ in my Bachelor's Degree of *Electro
 <img align="left" alt="React" width="26px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" />
 <img align="left" alt="Node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://symbols.getvecta.com/stencil_261/25_mongodb.f1296c0db6.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
