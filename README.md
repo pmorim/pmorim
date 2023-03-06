@@ -7,8 +7,9 @@ I learned the basics of programming in C/C++ in my Bachelor's Degree in *Electro
 ## 📜 Sacred coding rules
 
 1. **Svelte + TypeScript + TailwindCSS** for frontend;
-2. **Julia** for data analysis;
-3. **Rust** for everything else...
+2. **Lua** for scripting;
+3. **Julia** for data analysis;
+4. **Rust** for everything else...
 
 Also remember to:
 
