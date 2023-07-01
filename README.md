@@ -2,7 +2,7 @@
 
 Hi, my name is Pedro and I'm a Frontend Developer from Portugal.
 
-I learned the basics of programming in C/C++ in my Bachelor's Degree in *Electrotechnical and Computers Engineering* and fell in love with it. Ever since that, I have been self-learning about all kinds of programming languages and technologies.
+I learned the basics of programming in C/C++ in my Bachelor's Degree in *Electrotechnical and Computers Engineering* and fell in love with it. Ever since that, I have been self-learning about all kinds of programming languages and technologies. Currently in love with [Svelte](https://svelte.dev/) and [Rust](https://www.rust-lang.org/).
 
 ## 📈 Statistics
 
